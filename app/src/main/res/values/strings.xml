@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestOfFragmentsApp</string>
+    <string name="right_fragment_title">Направо</string>
+    <string name="left_fragment_title">Налево</string>
+    <string name="main_fragment_title">Прямо</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_right_text">...направо пойдёшь: красивую картинку и
+        текст в карточке под ней найдёшь...</string>
+    <string name="fragment_main_text">...направо или налево пойдёшь?...</string>
+    <string name="fragment_left_text">...налево пойдёшь: странную красную кнопку 
+        по центру найдёшь...</string>
+</resources>

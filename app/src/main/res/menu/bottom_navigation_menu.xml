@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/left_fragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_arrow_left"
+        android:title="@string/left_fragment_title" />
+    <item
+        android:id="@+id/main_fragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_question"
+        android:title="@string/main_fragment_title"/>
+    <item
+        android:id="@+id/right_fragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_arrow_right"
+        android:title="@string/right_fragment_title" />
+</menu>
